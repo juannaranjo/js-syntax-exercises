@@ -1,0 +1,18 @@
+{
+  "name": "jsday",
+  "version": "1.0.0",
+  "description": "Ejercicios para aprender JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "author": "Jorge Morales",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.1.0",
+    "mocha": "^6.2.0",
+    "sinon": "^7.4.1",
+    "sinon-chai": "^3.3.0"
+  }
+}
